@@ -256,6 +256,11 @@ hash = "fec9c53034aa89a9f9aa4322002ca539ba3bbe6c69f12e806546333444af20ef"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
+metafile = true
+
+[[files]]
 file = "mods/storagedrawers.pw.toml"
 hash = "a4d207fecb0d48cc0f9b95f2d52311929abdb6f9e1613a426cc77a8ff0887803"
 metafile = true
