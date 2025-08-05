@@ -340,11 +340,6 @@ hash = "ffc611062472d334b9748b6e36e587184508f261f51bdfad6d26cebe19b62cbc"
 metafile = true
 
 [[files]]
-file = "mods/vics-point-blank.pw.toml"
-hash = "a00cc5dac6276138b406419dc6919e73735bcd19577fca3fa13f9353a4d1ccbc"
-metafile = true
-
-[[files]]
 file = "mods/wthit.pw.toml"
 hash = "958c0f10c3482bcbc870e82eb7bf75e0dfa0565fd33db12dea1f59e9a330e4a0"
 metafile = true
