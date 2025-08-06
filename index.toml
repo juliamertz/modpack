@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "Makefile"
-hash = "a9645b85a43a6095e999931e545302d19c17b51e5096f64ad133a4884b1e0c24"
+hash = "7aea0dc38958f891ce0c567176c18cf52dae6442c91f5903c076ebc8f4768183"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
@@ -57,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "a26cea970dd7ffc20aeb983912e72ba57e83f6e1a42a661a5b4250f77de25650"
 metafile = true
 
 [[files]]
@@ -145,6 +150,16 @@ hash = "78085457d022d795c7f4f5566476fde9a8a4e81eee96db09ef7f5bd09eb34926"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "ce0b6c452313b669ce95d6bc7f232f72b89bf61ebb2013cac5b17a09c8132510"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "c9102ad224c1496927d326707ee2cd2a2cfd6f278f05e23a19aa45395306daf6"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "fec1ffa03b4d62e47be25512840490844fc383cf82d2ad35345b2f87a21e8228"
 metafile = true
@@ -187,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "5c98012330282f45370e95f4206ccf214fb059b73a8b4ebe0aeb2ae57647d8d5"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "c9c33bb929d2133e53cd332660d964d2d417396039affddbaf057fb7a9d5b36d"
 metafile = true
 
 [[files]]
@@ -330,6 +350,11 @@ hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
 metafile = true
 
 [[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "d6ddde622109dc5072e84fc6493c44950314594864a74495d898bcefbd3f2e8b"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
@@ -337,11 +362,6 @@ metafile = true
 [[files]]
 file = "mods/underground-village,-stoneholm.pw.toml"
 hash = "ffc611062472d334b9748b6e36e587184508f261f51bdfad6d26cebe19b62cbc"
-metafile = true
-
-[[files]]
-file = "mods/wthit.pw.toml"
-hash = "958c0f10c3482bcbc870e82eb7bf75e0dfa0565fd33db12dea1f59e9a330e4a0"
 metafile = true
 
 [[files]]
