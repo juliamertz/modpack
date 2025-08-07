@@ -200,11 +200,6 @@ hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
-file = "mods/fabricexporter.pw.toml"
-hash = "5d051754ba004b3bc340f9fdd8e0ea0220a69695d7207cd23877bf3265df3362"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "5c98012330282f45370e95f4206ccf214fb059b73a8b4ebe0aeb2ae57647d8d5"
 metafile = true
@@ -352,11 +347,6 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
 hash = "fec9c53034aa89a9f9aa4322002ca539ba3bbe6c69f12e806546333444af20ef"
-metafile = true
-
-[[files]]
-file = "mods/spark.pw.toml"
-hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
 metafile = true
 
 [[files]]
