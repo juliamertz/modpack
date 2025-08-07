@@ -1,4 +1,4 @@
-name = "perfect-create"
+name = "create-pack"
 author = "Julia"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "72a5608a754feb80393c31a8e183c53a9a235f0bb4b055ee0f1bd9280f39b2b7"
+hash = "a4281774e89487aa76629c3b130fd5199278f4aa662fd4ed0c02c0fe27840616"
 
 [versions]
 fabric = "0.17.0"

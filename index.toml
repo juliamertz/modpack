@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/release.yaml"
+hash = "086efbcfe8fbad45935515dcdfda1541d0fb0cf858a98e510113d10aea204b37"
+
+[[files]]
 file = "Makefile"
 hash = "7aea0dc38958f891ce0c567176c18cf52dae6442c91f5903c076ebc8f4768183"
 
