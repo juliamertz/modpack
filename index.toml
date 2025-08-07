@@ -375,6 +375,11 @@ hash = "ffc611062472d334b9748b6e36e587184508f261f51bdfad6d26cebe19b62cbc"
 metafile = true
 
 [[files]]
+file = "mods/vics-point-blank.pw.toml"
+hash = "a00cc5dac6276138b406419dc6919e73735bcd19577fca3fa13f9353a4d1ccbc"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "34b672500b3219fa67f776c0e2c69854746034e541a2d17bef34ae90e38f1a03"
 metafile = true
