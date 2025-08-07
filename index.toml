@@ -310,6 +310,16 @@ hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
 metafile = true
 
 [[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "92b2c4168d20ae658b823290606a00b9bbdea0df7a2d035095db8e4ca511298d"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "e9e2e9f4eb38b8ce001c2c73f537c8725be090b60b93a6f28704ec1acbe1cf5b"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
 metafile = true
