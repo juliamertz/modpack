@@ -1,13 +1,13 @@
 name = "Sodium Dynamic Lights"
-filename = "sodiumdynamiclights-fabric-1.0.10-1.20.1.jar"
+filename = "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/PxQSWIcD/versions/EYnKyLWV/sodiumdynamiclights-fabric-1.0.10-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/PxQSWIcD/versions/XI0WLXdn/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar"
 hash-format = "sha512"
-hash = "3372e745f56d9958d276fd07afe4e15ebc795c99a81e40233622499f5db1248d13d6b20933b331b74cfc388a7ffe109dfc982fd55e886ca8acae3d486c3428f5"
+hash = "ec19a81cf2dfde255990a457d8f6d7375df53cb94190dce71c4bfe5d5263f4862027ce4aa0af20cb11d56c7c031d5e149b3bdf95bec6343e5bd4552450b14c0a"
 
 [update]
 [update.modrinth]
 mod-id = "PxQSWIcD"
-version = "EYnKyLWV"
+version = "XI0WLXdn"

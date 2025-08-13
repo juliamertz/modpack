@@ -1,13 +1,13 @@
 name = "Create: Food"
-filename = "create-food-1.20.1-1.1.11-fabric.jar"
+filename = "createfood-neoforge-1.21.1-2.0.0-beta-3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4HnO3el1/versions/2wqGkVWL/create-food-1.20.1-1.1.11-fabric.jar"
+url = "https://cdn.modrinth.com/data/4HnO3el1/versions/Sd9pbQKb/createfood-neoforge-1.21.1-2.0.0-beta-3.jar"
 hash-format = "sha512"
-hash = "9a95d97065df687527f367f418a58cc4e0656aae2804d013ee5496c1b3787ecc8a99a8d5ce990d864b7b1377a71d8a47270c7c785642bd1740d27fecc704ec7a"
+hash = "138a415ce7885bb1797a25176d38b9e5414c8ebc58782b9c49ff471afef100138f609e0c8dc61d11db00e7552a93101eb2e0af2b53c1ef8d5dc8efd4b6106803"
 
 [update]
 [update.modrinth]
 mod-id = "4HnO3el1"
-version = "2wqGkVWL"
+version = "Sd9pbQKb"

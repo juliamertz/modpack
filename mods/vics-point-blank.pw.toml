@@ -1,13 +1,13 @@
 name = "Vic's Point Blank"
-filename = "pointblank-fabric-1.20.1-1.9.6.jar"
+filename = "pointblank-neoforge-1.21-1.9.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/og4KPYmA/versions/a4rjdGRx/pointblank-fabric-1.20.1-1.9.6.jar"
+url = "https://cdn.modrinth.com/data/og4KPYmA/versions/ks31PvUj/pointblank-neoforge-1.21-1.9.6.jar"
 hash-format = "sha512"
-hash = "681b3708ecbe5b0edf1bd8109abdf1c82aa22a16b7de60d874c9c16455979448b49db2d54e6f3597644cfcfafa704d1ee8393d14e8f1de61020fcb6bfed5312c"
+hash = "8c36a6187dfb5f85d8e58debd342a10be16d78dd0c5254eb24d878df4191dc74b0ff2c084d5adf485e90bb4cb93b4107ee196dcf4afcddaab643561baf0a645e"
 
 [update]
 [update.modrinth]
 mod-id = "og4KPYmA"
-version = "a4rjdGRx"
+version = "ks31PvUj"

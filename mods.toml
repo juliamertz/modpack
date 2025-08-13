@@ -1,0 +1,102 @@
+urls = [
+  # quality of life
+  # "https://modrinth.com/mod/tweakeroo", not on neoforge
+  "https://modrinth.com/mod/emi",
+  "https://modrinth.com/mod/jade",
+  "https://modrinth.com/mod/mouse-tweaks",
+  "https://modrinth.com/mod/corpse",
+  "https://modrinth.com/mod/sophisticated-backpacks",
+  # "https://modrinth.com/mod/minihud", # TODO: might not work for neoforge... yep broken!
+  "https://modrinth.com/mod/xaeros-minimap",
+  "https://modrinth.com/mod/xaeros-world-map",
+  "https://modrinth.com/mod/appleskin",
+  "https://modrinth.com/mod/sound-physics-remastered",
+  "https://modrinth.com/mod/betterf3",
+  "https://modrinth.com/mod/shulkerboxtooltip",
+  "https://modrinth.com/mod/natures-compass",
+  "https://modrinth.com/mod/rrls",
+  "https://modrinth.com/mod/polymorph",
+  "https://modrinth.com/mod/better-third-person",
+  "https://modrinth.com/mod/netherportalfix",
+  "https://modrinth.com/mod/invmove",
+  "https://modrinth.com/mod/carry-on",
+  "https://modrinth.com/mod/carry-on-extend",
+  "https://modrinth.com/mod/durability-tooltip",
+  "https://modrinth.com/mod/fallingtree",
+
+  # optimizations
+  "https://modrinth.com/mod/sodium",
+  "https://modrinth.com/mod/sodium-dynamic-lights",
+  "https://modrinth.com/mod/sodium-shadowy-path-blocks",
+  "https://modrinth.com/mod/iris",
+  "https://modrinth.com/mod/entityculling",
+  "https://modrinth.com/mod/ferrite-core",
+  "https://modrinth.com/mod/lithium",
+  "https://modrinth.com/mod/immediatelyfast",
+  "https://modrinth.com/mod/modernfix",
+  "https://modrinth.com/mod/dynamic-fps",
+  "https://modrinth.com/mod/moreculling",
+  "https://modrinth.com/mod/noisium",
+  "https://modrinth.com/mod/badoptimizations",
+  "https://modrinth.com/mod/fast-ip-ping",
+  "https://modrinth.com/plugin/lmd",
+  "https://modrinth.com/mod/packet-fixer",
+
+  "https://modrinth.com/mod/entitytexturefeatures",
+  "https://modrinth.com/mod/entity-model-features",
+
+  # Biomes rework
+  "https://modrinth.com/mod/biomes-o-plenty",
+  # "https://modrinth.com/mod/bop-rose-quartz-create-mod-compat", # incompatible with latest neoforge 1.21
+  "https://modrinth.com/datapack/farmers-cutting-biomes-o-plenty",
+  # "https://modrinth.com/mod/macaws-biomes-o-plenty", TODO: enable when macaw mods are added
+
+  # blocks / decorations
+  "https://modrinth.com/mod/chipped",
+  "https://modrinth.com/mod/handcrafted",
+  "https://modrinth.com/mod/supplementaries",
+  "https://modrinth.com/mod/amendments",
+  "https://modrinth.com/mod/comforts",
+
+  "https://modrinth.com/mod/vics-point-blank",
+
+  "https://modrinth.com/mod/farmers-delight",
+  # "https://modrinth.com/mod/farmers-delight-compat", # incompatible with latest neoforge 1.21
+
+  # Create
+  "https://modrinth.com/mod/create",
+  "https://modrinth.com/mod/copycats",
+  "https://modrinth.com/mod/createaddition",
+  "https://modrinth.com/mod/create-trimmed",
+  # "https://modrinth.com/mod/createnuclear", # incompatible with latest neoforge 1.21
+  # "https://modrinth.com/mod/interiors", # incompatible with latest neoforge 1.21
+  "https://modrinth.com/mod/create-food",
+  "https://modrinth.com/mod/create-enchantment-industry",
+  "https://modrinth.com/mod/create-trainutilities",
+  # "https://modrinth.com/mod/create-steam-n-rails", # incompatible with latest neoforge 1.21
+  "https://modrinth.com/mod/bellsandwhistles",
+  "https://modrinth.com/mod/create-central-kitchen",
+  "https://modrinth.com/mod/slice-and-dice",
+  "https://modrinth.com/mod/create-design-n-decor",
+  "https://modrinth.com/mod/create-connected",
+  # "https://modrinth.com/mod/extended-cogwheels", # incompatible with latest neoforge 1.21
+  "https://modrinth.com/mod/create-power-loader",
+  "https://modrinth.com/mod/create-dreams-and-desires",
+  # "https://modrinth.com/mod/estrogen", # incompatible with create >=6.0.0
+  # "https://modrinth.com/datapack/create-structures", # incompatible with latest neoforge 1.21
+  "https://modrinth.com/mod/create-structures-arise",
+  "https://modrinth.com/mod/create-bitterballen",
+  # "https://modrinth.com/mod/create-high-pressure", # incompatible with latest neoforge 1.21
+
+  # libraries / mod dependencies
+  "https://modrinth.com/mod/architectury-api", # train utilities
+  "https://modrinth.com/mod/athena-ctm", #chipped
+  "https://modrinth.com/mod/resourceful-lib", # chipped / estrogen
+  "https://modrinth.com/mod/resourceful-config",
+  "https://modrinth.com/mod/glitchcore", # biomes o plenty
+  "https://modrinth.com/mod/terrablender", # biomes o plenty
+  # "https://modrinth.com/mod/botarium", # estrogen
+  "https://modrinth.com/mod/geckolib", # vics point blank
+  "https://modrinth.com/mod/cloth-config",
+  "https://modrinth.com/mod/reeses-sodium-options",
+]
