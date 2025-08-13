@@ -1,13 +1,13 @@
 name = "create-pack"
 author = "Julia"
-version = "1.0.0"
+version = "0.4.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "651018ba2013569ad41bf4ae7c8d79dbc59786a40c62608d3fb15464aa375d0d"
+hash = "9317fd2e06a2ba0f4c0b195a75d1e901efb858f86fa8e248f39aac36e32a9f96"
 
 [versions]
-fabric = "0.17.0"
-minecraft = "1.20.1"
+minecraft = "1.21.1"
+neoforge = "21.1.200"
