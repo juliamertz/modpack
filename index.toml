@@ -289,6 +289,11 @@ hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
 
 [[files]]
+file = "mods/item-scroller.pw.toml"
+hash = "93ea8973beac5d1e78846141c97863fc2d4f46ccce6e870d65a71144f20c12d8"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
@@ -379,11 +384,6 @@ hash = "fec9c53034aa89a9f9aa4322002ca539ba3bbe6c69f12e806546333444af20ef"
 metafile = true
 
 [[files]]
-file = "mods/storagedrawers.pw.toml"
-hash = "a4d207fecb0d48cc0f9b95f2d52311929abdb6f9e1613a426cc77a8ff0887803"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
 metafile = true
@@ -396,6 +396,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "9b51c35206dd74dac90e3cc3f2ff9e1c45552500e6a01be183bc64260a0e5815"
 metafile = true
 
 [[files]]
