@@ -23,6 +23,7 @@ urls = [
   "https://modrinth.com/mod/carry-on-extend",
   "https://modrinth.com/mod/durability-tooltip",
   "https://modrinth.com/mod/fallingtree",
+  "https://modrinth.com/mod/animal_feeding_trough",
 
   # optimizations
   "https://modrinth.com/mod/sodium",
@@ -99,4 +100,13 @@ urls = [
   "https://modrinth.com/mod/geckolib", # vics point blank
   "https://modrinth.com/mod/cloth-config",
   "https://modrinth.com/mod/reeses-sodium-options",
+
+  "https://modrinth.com/mod/adorable-hamster-pets",
+  "https://modrinth.com/mod/living-things",
+  "https://modrinth.com/mod/critters-and-companions",
+  "https://modrinth.com/mod/ribbits",
+  "https://modrinth.com/mod/animal_feeding_trough",
+  "https://modrinth.com/mod/create-stuff-additions",
+  "https://modrinth.com/mod/create-tfmg",
+  "https://modrinth.com/mod/immersive-paintings",
 ]

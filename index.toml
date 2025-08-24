@@ -14,7 +14,12 @@ hash = "610f56be754ae8f03e67534fff08c27349be78225ffebf44ffc21bd93cc21573"
 
 [[files]]
 file = "mods.toml"
-hash = "4a1c5c9e1ec938602ad4c86b67d3a18f3c69f5db6fc8702560a2fa95aa60292c"
+hash = "e1b64c9a788f5e153935bf058cf9b2cc4c550df59dd34179baf0877078f98cc5"
+
+[[files]]
+file = "mods/adorable-hamster-pets.pw.toml"
+hash = "c2960a9a7a7cf8cefa9e8f6ac67240da4888337e465797261470227102bed6c3"
+metafile = true
 
 [[files]]
 file = "mods/almanac.pw.toml"
@@ -24,6 +29,11 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "1fa5075c1ebd310416d705674d6ae90975fa8971ce6cf04478f548a18c58d0da"
+metafile = true
+
+[[files]]
+file = "mods/animal_feeding_trough.pw.toml"
+hash = "fe3f752f78cd25803f7013c94bb602567bf242be165462f2287b430d457a144e"
 metafile = true
 
 [[files]]
@@ -157,6 +167,11 @@ hash = "d7d799c7e2933bb71e755730a4ddf23fc7272fe70598d5a4edfc0feb7c7c7557"
 metafile = true
 
 [[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "7bdf3b6cbe0579a034372ce1eec83e3c1888134f19beb6b17fbf2005706453be"
+metafile = true
+
+[[files]]
 file = "mods/create-trainutilities.pw.toml"
 hash = "70f4abe6b7351bab4fa130e15eac677e01a87ac4ab0348150590227de8343884"
 metafile = true
@@ -174,6 +189,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "0d3bcce402b76cfa495a68c987e2a67a79a9bdf625a45266dec855610f1bd48e"
+metafile = true
+
+[[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "7cbacd85c3127239f970aabd4e64b9b4b556ee62ebe714b9805ddf57932d5f60"
 metafile = true
 
 [[files]]
@@ -242,6 +262,11 @@ hash = "5b34f5aff5000de94ed9e132315bad7288a72a9cbb8f902df2799a579433b7af"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "e00b467d81fc5f35bf7432bc3b5d371281b0719eeae4377854a5f8ca33968190"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "9e80e6f2a680b052f2a66ade20a5abbd98a0abbebde6f30472d6ae6b993e9464"
 metafile = true
@@ -259,6 +284,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "a55fe659bff4772919b0e3f7a64d79df053556cb16cf8e5a186e20d6b3945dc1"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "2de1f8a8f059d117ba2de24df09b29c6c197298d60b62fcba2a6793a7985ca1a"
 metafile = true
 
 [[files]]
@@ -289,6 +319,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
+metafile = true
+
+[[files]]
+file = "mods/living-things.pw.toml"
+hash = "2731180e4a718e4613f11268b93e34915b58faa1233eda439247f9a23f91eaf8"
 metafile = true
 
 [[files]]
@@ -359,6 +394,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "efbf6335f63bbe36976d27d294c9b649ab9102b02957c76bd3680e83f71c5d57"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+hash = "efa8d53b3a7144e56b9823c54249fc353828f532808a73e65967d84183874782"
 metafile = true
 
 [[files]]
@@ -434,4 +474,9 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "9b8940ac83dde84cfc59860c6544a4b1194e635786c26bd47dc15eee79e63598"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Adorable Hamster Pets"
+filename = "adorablehamsterpets-3.1.2-1.21.1+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LmrhZdK2/versions/e1f78s9u/adorablehamsterpets-3.1.2-1.21.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "c41d81fceb8a6e3695ce0a1be38d25d2d67881f17c44a7eee2e647d7572a840694c57a8e591fa7f5e27e93f0576e8de450a715e35adc17bb422baeecb43b3eaa"
+
+[update]
+[update.modrinth]
+mod-id = "LmrhZdK2"
+version = "e1f78s9u"
